@@ -34,31 +34,30 @@
 
 <h2>👨‍💻 About Me</h2>
 
-<pre align="center">
-  __ _ _   _  ___  ___ ___ _   _ _ __ __ _ _ __ ___   _   _  ___  ____  
- / _` | | | |/ _ \/ __/ __| | | | '__/ _` | '_ ` _ \ | | | |/ _ \|  _ \ 
-| (_| | |_| |  __/\__ \__ \ |_| | | | (_| | | | | | || |_| | (_) | | | |
- \__,_|\__,_|\___||___/___/\__,_|_|  \__,_|_| |_| |_| \__,_|\___/|_| |_|
-</pre>
-
+<!-- Neumorphism Profile Cards -->
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Uzbekistan-Namangan-6A5ACD?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Location"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Fergana_State_Technical_University-Student-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Education"/>
+      <td align="center" width="25%" style="background: #0d1117; border-radius: 16px; padding: 20px 10px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 14px; color: #8b949e; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 8px;">Name</div>
+        <div style="font-size: 22px; font-weight: 700; color: #c9d1d9;">Ali Sattorov</div>
+        <div style="font-size: 14px; color: #6A5ACD; margin-top: 4px;">Alixon Sattorov</div>
       </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Software_Engineer-6A5ACD?style=for-the-badge&logo=code&logoColor=white" alt="Role"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/AI_Developer-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
-        <img src="https://img.shields.io/badge/Startup_Founder-00C7B7?style=for-the-badge&logo=rocket&logoColor=white" alt="Founder"/>
+      <td align="center" width="25%" style="background: #0d1117; border-radius: 16px; padding: 20px 10px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 14px; color: #8b949e; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 8px;">Location</div>
+        <div style="font-size: 18px; font-weight: 600; color: #c9d1d9;">Namangan</div>
+        <div style="font-size: 18px; font-weight: 600; color: #c9d1d9;">Uzbekistan 🇺🇿</div>
       </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Portfolio-sattorov.netlify.app-FF6F00?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Email-ali@sattorov.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <td align="center" width="25%" style="background: #0d1117; border-radius: 16px; padding: 20px 10px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 14px; color: #8b949e; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 8px;">Role</div>
+        <div style="font-size: 16px; font-weight: 600; color: #c9d1d9;">Software Engineer</div>
+        <div style="font-size: 14px; color: #6A5ACD; margin-top: 4px;">AI Developer</div>
+        <div style="font-size: 14px; color: #00C7B7;">Startup Founder</div>
+      </td>
+      <td align="center" width="25%" style="background: #0d1117; border-radius: 16px; padding: 20px 10px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 14px; color: #8b949e; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 8px;">Education</div>
+        <div style="font-size: 14px; font-weight: 600; color: #c9d1d9;">Fergana State</div>
+        <div style="font-size: 14px; font-weight: 600; color: #c9d1d9;">Technical University</div>
       </td>
     </tr>
   </table>
@@ -69,17 +68,17 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Mission-Building%20useful%20AI--powered%20software-9B59B6?style=for-the-badge&logo=target&logoColor=white" alt="Mission"/>
+      <td align="center" width="33%" style="background: #0d1117; border-radius: 16px; padding: 18px 15px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 12px; color: #8b949e; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 6px;">Mission</div>
+        <div style="font-size: 14px; color: #c9d1d9; line-height: 1.5;">Building useful AI-powered software that solves real problems</div>
       </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Vision-Products%20used%20by%20millions-3498DB?style=for-the-badge&logo=eye&logoColor=white" alt="Vision"/>
+      <td align="center" width="33%" style="background: #0d1117; border-radius: 16px; padding: 18px 15px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 12px; color: #8b949e; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 6px;">Vision</div>
+        <div style="font-size: 14px; color: #c9d1d9; line-height: 1.5;">Create technology products used by millions of people</div>
       </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Motto-Building%20the%20future%20one%20commit%20at%20a%20time-27AE60?style=for-the-badge&logo=heart&logoColor=white" alt="Motto"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Startups-MyImkon%20%7C%20QuizLab-E74C3C?style=for-the-badge&logo=star&logoColor=white" alt="Startups"/>
+      <td align="center" width="33%" style="background: #0d1117; border-radius: 16px; padding: 18px 15px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 12px; color: #8b949e; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 6px;">Startups</div>
+        <div style="font-size: 14px; color: #c9d1d9; line-height: 1.5;">MyImkon · QuizLab</div>
       </td>
     </tr>
   </table>
@@ -90,20 +89,36 @@
 <div align="center">
   <table>
     <tr>
-      <th align="center" width="16%">Backend</th>
-      <th align="center" width="16%">AI & ML</th>
-      <th align="center" width="16%">Automation</th>
-      <th align="center" width="16%">System Design</th>
-      <th align="center" width="16%">Cybersecurity</th>
-      <th align="center" width="16%">Prompt Engineering</th>
-    </tr>
-    <tr>
-      <td align="center">🐍 Python<br/>⚡ FastAPI<br/>🟢 Node.js</td>
-      <td align="center">🤖 LLMs<br/>🧠 PyTorch<br/>📊 Data</td>
-      <td align="center">⚙️ CI/CD<br/>🐳 Docker<br/>📜 Scripts</td>
-      <td align="center">🏗️ Architecture<br/>📐 REST APIs<br/>☁️ Cloud</td>
-      <td align="center">🔐 Security<br/>🛡️ Linux<br/>🔍 Analysis</td>
-      <td align="center">💬 GPT/Claude<br/>🎯 Optimization<br/>🔄 RAG</td>
+      <td align="center" width="16%" style="background: #0d1117; border-radius: 16px; padding: 16px 8px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 24px; margin-bottom: 6px;">🐍</div>
+        <div style="font-size: 12px; color: #8b949e; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 4px;">Backend</div>
+        <div style="font-size: 13px; color: #c9d1d9; line-height: 1.6;">Python<br/>FastAPI<br/>Node.js</div>
+      </td>
+      <td align="center" width="16%" style="background: #0d1117; border-radius: 16px; padding: 16px 8px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 24px; margin-bottom: 6px;">🤖</div>
+        <div style="font-size: 12px; color: #8b949e; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 4px;">AI & ML</div>
+        <div style="font-size: 13px; color: #c9d1d9; line-height: 1.6;">LLMs<br/>PyTorch<br/>Data</div>
+      </td>
+      <td align="center" width="16%" style="background: #0d1117; border-radius: 16px; padding: 16px 8px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 24px; margin-bottom: 6px;">⚙️</div>
+        <div style="font-size: 12px; color: #8b949e; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 4px;">Automation</div>
+        <div style="font-size: 13px; color: #c9d1d9; line-height: 1.6;">CI/CD<br/>Docker<br/>Scripts</div>
+      </td>
+      <td align="center" width="16%" style="background: #0d1117; border-radius: 16px; padding: 16px 8px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 24px; margin-bottom: 6px;">🏗️</div>
+        <div style="font-size: 12px; color: #8b949e; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 4px;">System Design</div>
+        <div style="font-size: 13px; color: #c9d1d9; line-height: 1.6;">Architecture<br/>REST APIs<br/>Cloud</div>
+      </td>
+      <td align="center" width="16%" style="background: #0d1117; border-radius: 16px; padding: 16px 8px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 24px; margin-bottom: 6px;">🔐</div>
+        <div style="font-size: 12px; color: #8b949e; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 4px;">Cybersecurity</div>
+        <div style="font-size: 13px; color: #c9d1d9; line-height: 1.6;">Security<br/>Linux<br/>Analysis</div>
+      </td>
+      <td align="center" width="16%" style="background: #0d1117; border-radius: 16px; padding: 16px 8px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 24px; margin-bottom: 6px;">💡</div>
+        <div style="font-size: 12px; color: #8b949e; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 4px;">Prompt Eng.</div>
+        <div style="font-size: 13px; color: #c9d1d9; line-height: 1.6;">GPT/Claude<br/>Optimization<br/>RAG</div>
+      </td>
     </tr>
   </table>
 </div>
