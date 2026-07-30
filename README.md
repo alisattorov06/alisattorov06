@@ -43,10 +43,15 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <img src="https://avatars.githubusercontent.com/u/194095058?v=4" width="180" height="180" style="border-radius: 50%; border: 3px solid #6A5ACD;" alt="Ali Sattorov"/>
+    <td align="center" width="220">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/avatar-particles-small.svg">
+        <img src="assets/avatar-particles-small.svg" width="200" height="200" style="border-radius: 50%; border: 3px solid #6A5ACD;" alt="Ali Sattorov Particle Avatar"/>
+      </picture>
+      <br/>
+      <sub><em>✨ Three.js particle animation — <a href="assets/avatar-particles.html">view interactive</a></em></sub>
     </td>
-    <td align="left" width="600">
+    <td align="left" width="580">
       <p><strong>Name:</strong> Ali Sattorov (Alixon Sattorov)</p>
       <p><strong>Location:</strong> Namangan, Uzbekistan 🇺🇿</p>
       <p><strong>Role:</strong> Software Engineer · AI Developer · Startup Founder</p>
