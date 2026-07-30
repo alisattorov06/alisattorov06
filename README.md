@@ -41,56 +41,72 @@
  \__,_|\__,_|\___||___/___/\__,_|_|  \__,_|_| |_| |_| \__,_|\___/|_| |_|
 </pre>
 
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/avatar-particles-small.svg">
-        <img src="assets/avatar-particles-small.svg" width="200" height="200" style="border-radius: 50%; border: 3px solid #6A5ACD;" alt="Ali Sattorov Particle Avatar"/>
-      </picture>
-      <br/>
-      <sub><em>✨ Three.js particle animation — <a href="assets/avatar-particles.html">view interactive</a></em></sub>
-    </td>
-    <td align="left" width="580">
-      <p><strong>Name:</strong> Ali Sattorov (Alixon Sattorov)</p>
-      <p><strong>Location:</strong> Namangan, Uzbekistan 🇺🇿</p>
-      <p><strong>Role:</strong> Software Engineer · AI Developer · Startup Founder</p>
-      <p><strong>Education:</strong> Fergana State Technical University</p>
-      <p><strong>Mission:</strong> Building useful AI-powered software that solves real problems.</p>
-      <p><strong>Vision:</strong> Create technology products used by millions of people.</p>
-      <p><strong>Portfolio:</strong> <a href="https://sattorov.netlify.app">sattorov.netlify.app</a></p>
-      <p>
-        <strong>Startups:</strong>
-        <a href="https://myimkon.uz">MyImkon</a> ·
-        <a href="https://quizlab.uz">QuizLab</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Uzbekistan-Namangan-6A5ACD?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Location"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Fergana_State_Technical_University-Student-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Education"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Software_Engineer-6A5ACD?style=for-the-badge&logo=code&logoColor=white" alt="Role"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/AI_Developer-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+        <img src="https://img.shields.io/badge/Startup_Founder-00C7B7?style=for-the-badge&logo=rocket&logoColor=white" alt="Founder"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Portfolio-sattorov.netlify.app-FF6F00?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Email-ali@sattorov.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-```python
-class AliSattorov:
-    def __init__(self):
-        self.name = "Ali Sattorov"
-        self.alt_name = "Alixon Sattorov"
-        self.location = "Namangan, Uzbekistan"
-        self.role = "Software Engineer"
-        self.specialties = [
-            "Backend Development",
-            "Artificial Intelligence",
-            "Automation",
-            "System Design",
-            "Cybersecurity",
-            "Linux",
-            "Prompt Engineering"
-        ]
-        self.current_focus = "AI-powered recruitment & education platforms"
-        self.startups = ["MyImkon (AI Recruitment)", "QuizLab (EdTech)"]
-        self.motto = "Building useful AI-powered software that solves real problems"
+<br/>
 
-    def status(self):
-        return "🚀 Building the future, one commit at a time"
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Mission-Building%20useful%20AI--powered%20software-9B59B6?style=for-the-badge&logo=target&logoColor=white" alt="Mission"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Vision-Products%20used%20by%20millions-3498DB?style=for-the-badge&logo=eye&logoColor=white" alt="Vision"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Motto-Building%20the%20future%20one%20commit%20at%20a%20time-27AE60?style=for-the-badge&logo=heart&logoColor=white" alt="Motto"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Startups-MyImkon%20%7C%20QuizLab-E74C3C?style=for-the-badge&logo=star&logoColor=white" alt="Startups"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <th align="center" width="16%">Backend</th>
+      <th align="center" width="16%">AI & ML</th>
+      <th align="center" width="16%">Automation</th>
+      <th align="center" width="16%">System Design</th>
+      <th align="center" width="16%">Cybersecurity</th>
+      <th align="center" width="16%">Prompt Engineering</th>
+    </tr>
+    <tr>
+      <td align="center">🐍 Python<br/>⚡ FastAPI<br/>🟢 Node.js</td>
+      <td align="center">🤖 LLMs<br/>🧠 PyTorch<br/>📊 Data</td>
+      <td align="center">⚙️ CI/CD<br/>🐳 Docker<br/>📜 Scripts</td>
+      <td align="center">🏗️ Architecture<br/>📐 REST APIs<br/>☁️ Cloud</td>
+      <td align="center">🔐 Security<br/>🛡️ Linux<br/>🔍 Analysis</td>
+      <td align="center">💬 GPT/Claude<br/>🎯 Optimization<br/>🔄 RAG</td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
