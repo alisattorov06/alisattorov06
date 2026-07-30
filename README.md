@@ -203,18 +203,50 @@
 <h2>📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisattorov06&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=10" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisattorov06&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="180" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=alisattorov06&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180" />
-  <img src="https://github-profile-trophy.vercel.app/?username=alisattorov06&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" height="180" />
+  <table>
+    <tr>
+      <td align="center" width="16%" style="background: #0d1117; border-radius: 12px; padding: 14px 8px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 10px; color: #8b949e; letter-spacing: 1px; text-transform: uppercase;">Repos</div>
+        <div style="font-size: 24px; font-weight: 700; color: #58a6ff; margin-top: 4px;">29</div>
+      </td>
+      <td align="center" width="16%" style="background: #0d1117; border-radius: 12px; padding: 14px 8px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 10px; color: #8b949e; letter-spacing: 1px; text-transform: uppercase;">Stars</div>
+        <div style="font-size: 24px; font-weight: 700; color: #d2a8ff; margin-top: 4px;">20</div>
+      </td>
+      <td align="center" width="16%" style="background: #0d1117; border-radius: 12px; padding: 14px 8px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 10px; color: #8b949e; letter-spacing: 1px; text-transform: uppercase;">Forks</div>
+        <div style="font-size: 24px; font-weight: 700; color: #3fb950; margin-top: 4px;">2</div>
+      </td>
+      <td align="center" width="16%" style="background: #0d1117; border-radius: 12px; padding: 14px 8px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 10px; color: #8b949e; letter-spacing: 1px; text-transform: uppercase;">Followers</div>
+        <div style="font-size: 24px; font-weight: 700; color: #f0883e; margin-top: 4px;">5</div>
+      </td>
+      <td align="center" width="16%" style="background: #0d1117; border-radius: 12px; padding: 14px 8px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 10px; color: #8b949e; letter-spacing: 1px; text-transform: uppercase;">Following</div>
+        <div style="font-size: 24px; font-weight: 700; color: #79c0ff; margin-top: 4px;">1</div>
+      </td>
+      <td align="center" width="16%" style="background: #0d1117; border-radius: 12px; padding: 14px 8px; box-shadow: inset 2px 2px 6px #06080a, inset -2px -2px 6px #141a24;">
+        <div style="font-size: 10px; color: #8b949e; letter-spacing: 1px; text-transform: uppercase;">Joined</div>
+        <div style="font-size: 16px; font-weight: 700; color: #8b949e; margin-top: 4px;">2025</div>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/alisattorov06?tab=repositories"><img src="https://img.shields.io/badge/Total_Repositories-29-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
+  <a href="https://github.com/alisattorov06?tab=stars"><img src="https://img.shields.io/badge/Stars_Earned-20-d2a8ff?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/></a>
+  <a href="https://github.com/alisattorov06?tab=followers"><img src="https://img.shields.io/badge/Followers-5-f0883e?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/></a>
+  <img src="https://img.shields.io/badge/Member_Since-2025-8b949e?style=for-the-badge&logo=github&logoColor=white" alt="Member"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisattorov06&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" width="95%" />
 </div>
-
----
 
 <h2>🐍 Contribution Snake</h2>
 
@@ -224,16 +256,6 @@
     <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg">
     <img alt="Snake eating my contributions" src="assets/github-snake.svg" width="90%">
   </picture>
-</div>
-
----
-
-<h2>📈 Detailed Metrics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alisattorov06&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-  <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=alisattorov06&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </div>
 
 ---
