@@ -300,29 +300,6 @@
   </table>
 </div>
 
-<h3>📦 Featured Repositories</h3>
-
-<div align="center">
-  <a href="https://github.com/alisattorov06/blog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisattorov06&repo=blog&theme=tokyonight&hide_border=true&border_radius=10" alt="Blog Repo">
-  </a>
-  <a href="https://github.com/alisattorov06/ai-baholash">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisattorov06&repo=ai-baholash&theme=tokyonight&hide_border=true&border_radius=10" alt="AI Baholash Repo">
-  </a>
-  <a href="https://github.com/alisattorov06/windows-12">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisattorov06&repo=windows-12&theme=tokyonight&hide_border=true&border_radius=10" alt="Windows 12 Repo">
-  </a>
-  <a href="https://github.com/alisattorov06/murojaatchi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisattorov06&repo=murojaatchi&theme=tokyonight&hide_border=true&border_radius=10" alt="Murojaatchi Repo">
-  </a>
-  <a href="https://github.com/alisattorov06/naimat-os">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisattorov06&repo=naimat-os&theme=tokyonight&hide_border=true&border_radius=10" alt="Naimat OS Repo">
-  </a>
-  <a href="https://github.com/alisattorov06/ramazon-hayriya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisattorov06&repo=ramazon-hayriya&theme=tokyonight&hide_border=true&border_radius=10" alt="Ramazon Hayriya Repo">
-  </a>
-</div>
-
 ---
 
 <h2>📜 Certificates & Achievements</h2>
