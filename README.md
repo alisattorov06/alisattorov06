@@ -10,7 +10,7 @@
 </h1>
 
 <h3 align="center">
-  <a href="https://sattorov.netlify.app" target="_blank">
+  <a href="https://blog.myimkon.uz" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF6F00.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:ali@sattorov.dev">
